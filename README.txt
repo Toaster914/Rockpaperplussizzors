@@ -12,7 +12,7 @@ if it pops up the verion, skip this section.
 Running the program:
 
 it has most likely downloaded to your downloads folder. run: cd Downloads/
-then run: cd Rockpaperandsizzors/
+then run: cd [folder name here]
 finnaly, run: python3 rockpaperizzors.py
 
 
