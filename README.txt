@@ -1,19 +1,11 @@
-USE AND INSTALL INSTRUCTIONS
+run "python3 RPS.py" in the folder to run it.
 
-installation:
-
-1.Check if python is installed with: python --version
-
-if it pops up the verion, skip this section.
-
-2. run: sudo apt update
-3. run: sudo apt-get install python3
-
-Running the program:
-
-it has most likely downloaded to your downloads folder. run: cd Downloads/
+im not a good writer so heres some ascii art.it has most likely downloaded to your downloads folder. run: cd Downloads/
 then run: cd [folder name here]
 finnaly, run: python3 rockpaperizzors.py
+
+
+
 
 
 
