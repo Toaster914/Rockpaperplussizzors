@@ -1,9 +1,6 @@
 run "python3 RPS.py" in the folder to run it.
 
-im not a good writer so heres some ascii art.it has most likely downloaded to your downloads folder. run: cd Downloads/
-then run: cd [folder name here]
-finnaly, run: python3 rockpaperizzors.py
-
+im not a good writer so heres some ascii art.
 
 
 
